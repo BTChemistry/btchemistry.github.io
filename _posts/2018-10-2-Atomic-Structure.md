@@ -1,9 +1,9 @@
 ---
 layout: post-light-feature
 title: Atomic Structure
-description: "The first chapter in chemistry honors, Atomic Structure"
+description: "The second chapter in chemistry honors"
 categories: articles
-date: 2018-10-22
+date: 2018-10-2
 image:
         feature: Chem-1.png
 ---

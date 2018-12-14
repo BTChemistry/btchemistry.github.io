@@ -1,9 +1,9 @@
 ---
 layout: post-light-feature
 title: The Periodic Table
-description: "The second chapter in chemistry honors, The Periodic Table"
+description: "The third chapter in chemistry honors"
 categories: articles
-date: 2018-10-22
+date: 2018-10-3
 image:
         feature: Chem-1.png
 ---
